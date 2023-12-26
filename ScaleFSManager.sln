@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScaleFSManager", "ScaleFSMa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScaleFS.Primitives", "..\scalefs-primitives-lib-cs\src\ScaleFS.Primitives.csproj", "{D1E82794-E558-4241-A86D-2E54515BFDE9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ScaleFS.WindowsPnp", "..\scalefs-windowspnp-lib-cs\src\ScaleFS.WindowsPnp.csproj", "{EE4DEF74-5C99-4263-BE86-70F006111C8D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -61,6 +63,18 @@ Global
 		{D1E82794-E558-4241-A86D-2E54515BFDE9}.Release|x64.Build.0 = Release|x64
 		{D1E82794-E558-4241-A86D-2E54515BFDE9}.Release|x86.ActiveCfg = Release|x86
 		{D1E82794-E558-4241-A86D-2E54515BFDE9}.Release|x86.Build.0 = Release|x86
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Debug|ARM64.Build.0 = Debug|ARM64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Debug|x64.ActiveCfg = Debug|x64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Debug|x64.Build.0 = Debug|x64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Debug|x86.ActiveCfg = Debug|x86
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Debug|x86.Build.0 = Debug|x86
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Release|ARM64.ActiveCfg = Release|ARM64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Release|ARM64.Build.0 = Release|ARM64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Release|x64.ActiveCfg = Release|x64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Release|x64.Build.0 = Release|x64
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Release|x86.ActiveCfg = Release|x86
+		{EE4DEF74-5C99-4263-BE86-70F006111C8D}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

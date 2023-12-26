@@ -25,5 +25,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\scalefs-primitives-lib-cs\src\ScaleFS.Primitives.csproj" />
+    <ProjectReference Include="..\..\scalefs-windowspnp-lib-cs\src\ScaleFS.WindowsPnp.csproj" />
   </ItemGroup>
 </Project>
