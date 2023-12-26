@@ -22,4 +22,9 @@
     <PackageReference Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22621.755" />
     <Manifest Include="$(ApplicationManifest)" />
   </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\scalefs-primitives-lib-cs\src\ScaleFS.Primitives.csproj" />
+    <ProjectReference Include="..\..\scalefs-windowspnp-lib-cs\src\ScaleFS.WindowsPnp.csproj" />
+  </ItemGroup>
 </Project>
