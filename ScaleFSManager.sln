@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C7167F0D-BC9F-4E6E-AFE1-012C56B48DB5}") = "ScaleFSManager (Package)", "ScaleFSManager (Package)\ScaleFSManager (Package).wapproj", "{4B807DC4-B443-4955-9E59-8F5DD5995B21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScaleFSManager", "ScaleFSManager\ScaleFSManager.csproj", "{726554BC-7A11-4793-B6C2-3DA2411F5D52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|ARM64.Build.0 = Debug|ARM64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|x64.ActiveCfg = Debug|x64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|x64.Build.0 = Debug|x64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|x64.Deploy.0 = Debug|x64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|x86.ActiveCfg = Debug|x86
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|x86.Build.0 = Debug|x86
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Debug|x86.Deploy.0 = Debug|x86
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|ARM64.ActiveCfg = Release|ARM64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|ARM64.Build.0 = Release|ARM64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|ARM64.Deploy.0 = Release|ARM64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|x64.ActiveCfg = Release|x64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|x64.Build.0 = Release|x64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|x64.Deploy.0 = Release|x64
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|x86.ActiveCfg = Release|x86
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|x86.Build.0 = Release|x86
+		{4B807DC4-B443-4955-9E59-8F5DD5995B21}.Release|x86.Deploy.0 = Release|x86
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Debug|ARM64.Build.0 = Debug|ARM64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Debug|x64.ActiveCfg = Debug|x64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Debug|x64.Build.0 = Debug|x64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Debug|x86.ActiveCfg = Debug|x86
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Debug|x86.Build.0 = Debug|x86
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Release|ARM64.ActiveCfg = Release|ARM64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Release|ARM64.Build.0 = Release|ARM64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Release|x64.ActiveCfg = Release|x64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Release|x64.Build.0 = Release|x64
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Release|x86.ActiveCfg = Release|x86
+		{726554BC-7A11-4793-B6C2-3DA2411F5D52}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {647537BC-7B0E-4172-9909-424DE31DA867}
+	EndGlobalSection
+EndGlobal
